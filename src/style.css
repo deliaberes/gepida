@@ -7,4 +7,12 @@ Date: 2023-04-02
 Github: https://github.com/deliaberes/
 Licenc: GNU GPL
 */
+#about {
+    background-color: rgb(213, 107, 174);
+    color: white;
 
+}
+h1 {
+    font-size: 20px;
+    font-family: cursive;
+}
